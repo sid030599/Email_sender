@@ -9,7 +9,7 @@ Some screenshots of wesite.
 
 ![screenshot of site](https://github.com/sid030599/Email_sender/blob/main/screenshot%20of%20email%20sender/Screenshot%202022-10-18%20at%204.21.14%20PM.png)
 
-
+### Email confirmation
 ![screenshot of site](https://github.com/sid030599/Email_sender/blob/main/screenshot%20of%20email%20sender/Screenshot%202022-10-18%20at%204.20.49%20PM.png)
 
 
